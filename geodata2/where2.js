@@ -1,0 +1,22 @@
+myData = [
+[14.6538817,121.0685049, 'Roxas Ave, Diliman, Quezon City, Metro Manila, Philippines'],
+[14.6398614,121.0784939, 'Katipunan Ave, Quezon City, 1108 Metro Manila, Philippines'],
+[14.5647642,120.9931652, '2401 Taft Ave, Malate, Manila, 1004 Metro Manila, Philippines'],
+[14.6549715,121.0651503, 'U.P. Campus , University of the Philippines , 1101 Quezon City , Metro Manila, Diliman, Quezon City, Metro Manila, Philippines'],
+[14.6099081,120.9894336, 'España Blvd, Sampaloc, Manila, 1008 Metro Manila, Philippines'],
+[9.3132404,123.3068253, '1 Hibbard Ave, Dumaguete, 6200 Negros Oriental, Philippines'],
+[14.5777477,120.9853666, 'Zone 72, 670 Padre Faura St, Ermita, Manila, 1000 Metro Manila, Philippines'],
+[35.3050053,-120.6624942, 'San Luis Obispo, CA 93407, USA'],
+[34.0223519,-118.285117, 'Los Angeles, CA 90007, USA'],
+[14.5904883,120.9779484, '658 Muralla St, Intramuros, Manila, 1002 Metro Manila, Philippines'],
+[14.552473,121.018728, '123 Paseo de Roxas, Legazpi Village, Makati, 1229 Metro Manila, Philippines'],
+[16.3842153,120.5931548, 'Mary Heights, Bakakeng, Baguio, Benguet, Philippines'],
+[7.0719854,125.6131972, 'Roxas Ave, Poblacion District, Davao City, 8000 Davao del Sur, Philippines'],
+[8.239754999999999,124.244765, 'Andres Bonifacio Ave, Iligan City, 9200 Lanao del Norte, Philippines'],
+[10.293997,123.8975074, 'Cebu City, 6000 Cebu, Philippines'],
+[14.5988591,120.9917458, '1001 San Rafael St, San Miguel, Manila, 1008 Metro Manila, Philippines'],
+[8.4766859,124.6461623, '73 Corrales Ave, Cagayan de Oro, 9000 Misamis Oriental, Philippines'],
+[14.6017243,120.9889085, '2219 Recto Ave, Sampaloc, Manila, 1008 Metro Manila, Philippines'],
+[10.7316296,122.5501433, 'University Ave, Jaro, Iloilo City, Iloilo, Philippines'],
+[7.0862335,125.6156262, 'Bo. Obrero, Iñigo St, Poblacion District, Davao City, 8000 Davao del Sur, Philippines']
+];
